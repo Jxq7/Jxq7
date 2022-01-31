@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Jxq7
-- 👀 I’m interested Coding
-- 🌱 I’m currently learning lua html js css py
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me on Discord
-- ✨ I'm 14 in as of now in 2021
+---- LUA | JAVASCRIPT | PYTHON | 
+     I have a passion for coding, do it whenever i get the chance to do it.
+     I'm currently experimenting with stuff but what i do currently is make roblox hacks
+     Offical Github of ! El1te
+     I don't like my github username tbh
 <!---
 Jxq7/Jxq7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
